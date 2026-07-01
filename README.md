@@ -22,8 +22,8 @@ The objective is to identify warehouse bottlenecks, analyze root causes, evaluat
 - Warehouse operations rely on manual labor
 
 <p align="center">
-<img src="images/3%20business-problem.PNG" width="400">
-<img src="images/3a%20business-problem.PNG" width="400">
+<img src="images/3%20analysis.PNG" width="400">
+<img src="images/3a%20analysis.PNG" width="400">
 </p>
 
 ## 🔍 Root Cause Analysis
